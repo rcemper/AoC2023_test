@@ -20,10 +20,10 @@ part2: 34934171
 part1: 249638405   
 part2: 249776650   
 #### day08
-part1:    
+part1: 
 part2:   
 #### day09
-part1:    
+part1: 
 part2:   
 #### day10
 part1: 
