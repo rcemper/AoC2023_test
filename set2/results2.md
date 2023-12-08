@@ -1,75 +1,75 @@
-### day01
+#### day01
 part1: 54990    
 part2: 54473    
-### day02
+#### day02
 part1: 2551     
 part2: 62811    
-### day03
+#### day03
 part1: 535235     
 part2: 79844424    
-### day04
+#### day04
 part1: 28750     
 part2: 10212704     
-### day05
+#### day05
 part1: 265018614     
 part2: 63179500    
-### day06
+#### day06
 part1: 74698      
 part2: 27563421    
-### day07
+#### day07
 part1: 248812215     
 part2: 250057090    
-### day08
+#### day08
+part1: 18113     
+part2: 12315788159977     
+#### day09
 part1:      
 part2:     
-### day09
+#### day10
 part1:      
 part2:     
-### day10
+#### day11
 part1:      
 part2:     
-### day11
+#### day12
 part1:      
 part2:     
-### day12
+#### day13
 part1:      
 part2:     
-### day13
+#### day14
 part1:      
 part2:     
-### day14
+#### day15
 part1:      
 part2:     
-### day15
+#### day16
 part1:      
 part2:     
-### day16
+#### day17
 part1:      
 part2:     
-### day17
+#### day18
 part1:      
 part2:     
-### day18
+#### day19
 part1:      
 part2:     
-### day19
+#### day20
 part1:      
 part2:     
-### day20
+#### day21
 part1:      
 part2:     
-### day21
+#### day22
 part1:      
 part2:     
-### day22
+#### day23
 part1:      
 part2:     
-### day23
+#### day24
 part1:      
 part2:     
-### day24
-part1:      
-part2:     
-### day25
+#### day25
 part1:      
 part2:     
