@@ -23,8 +23,8 @@ part2: 250057090
 part1: 18113     
 part2: 12315788159977     
 #### day09
-part1:      
-part2:     
+part 1: 1974913025    
+part 2: 884     
 #### day10
 part1:      
 part2:     
