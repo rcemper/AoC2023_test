@@ -29,8 +29,8 @@ part2: 1112
 part1: 7030          
 part2: 285     
 #### day11
-part1:      
-part2:     
+part1: 10228230      
+part2: 447073334102          
 #### day12
 part1:      
 part2:     
