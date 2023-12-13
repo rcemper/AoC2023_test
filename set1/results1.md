@@ -35,8 +35,8 @@ part2: 447073334102
 part1: 7260     
 part2: 1909291258644     
 #### day13
-part1:      
-part2:     
+part1: 27505         
+part2: 22906     
 #### day14
 part1:      
 part2:     
