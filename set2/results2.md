@@ -38,8 +38,8 @@ part2: 7030194981795
 part1: 37025            
 part2: 32854    
 #### day14
-part1:      
-part2:     
+part1: 108889     
+part2: 104671    
 #### day15
 part1:      
 part2:     
