@@ -41,8 +41,8 @@ part2: 22906
 part1: 113424      
 part2: 96003         
 #### day15
-part1:      
-part2:     
+part1: 513214     
+part2: 258826    
 #### day16
 part1:      
 part2:     
