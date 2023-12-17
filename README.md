@@ -4,4 +4,5 @@ The sets contain input files and results verified by AoC.
 They can be used to check the proper processing of your   
 Solutions written in ObjectScript.   
 
-The repo also contains the daily progress in JSON format    
+The repo also contains the daily progress in JSON format      
+The repo will be close on Dec.25, 2023  
