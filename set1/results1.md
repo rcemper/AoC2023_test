@@ -50,8 +50,8 @@ part2: 7793
 part1: 907     
 part2: 1057       
 #### day18
-part1:      
-part2:     
+part1: 28911     
+part2: 77366737561114    
 #### day19
 part1:      
 part2:     
