@@ -53,8 +53,8 @@ part2: 1312
 part1: 47045     
 part2: 147839570293376    
 #### day19
-part1:      
-part2:     
+part1: 368964     
+part2: 127675188176682    
 #### day20
 part1:      
 part2:     
