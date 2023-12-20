@@ -53,11 +53,11 @@ part2: 1057
 part1: 28911     
 part2: 77366737561114    
 #### day19
-part1:      
-part2:     
+part1: 374873     
+part2: 122112157518711    
 #### day20
-part1:      
-part2:     
+part1: 806332748     
+part2: 228060006554227    
 #### day21
 part1:      
 part2:     
