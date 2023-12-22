@@ -62,8 +62,8 @@ part2: 228060006554227
 part1: 3776     
 part2: 625587097150084    
 #### day22
-part1:      
-part2:     
+part1: 375     
+part2: 72352    
 #### day23
 part1:      
 part2:     
