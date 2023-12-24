@@ -65,11 +65,11 @@ part2: 613391294577878
 part1: 375    
 part2: 72352    
 #### day23
-part1:      
-part2:     
+part1: 2282    
+part2: 6646    
 #### day24
-part1:      
-part2:     
+part1: 12783     
+part2: 948485822969419    
 #### day25
 part1:      
 part2:     
