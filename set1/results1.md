@@ -71,5 +71,5 @@ part2: 6622
 part1: 26611     
 part2: 684195328708898    
 #### day25
-part1:      
-part2:     
+part1: 568214     
+part2: -      
